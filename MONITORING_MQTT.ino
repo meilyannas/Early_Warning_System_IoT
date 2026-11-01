@@ -21,8 +21,8 @@
 #define PIN_BUZZER_VAULT       25  
 
 // ========== KONFIGURASI ==========
-const char* ssid = "bundouwo";
-const char* password = "0987654321";
+const char* ssid = " ";
+const char* password = " ";
 const char* mqtt_server = "10.33.109.55";
 const int mqtt_port = 1883;
 
