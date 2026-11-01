@@ -25,8 +25,8 @@ const int SERVO_TERTUTUP = 0;
 const int SERVO_TERBUKA = 90;
 
 // ========== WIFI & MQTT ==========
-const char* ssid = "bundouwo";
-const char* password = "0987654321";
+const char* ssid = " ";
+const char* password = " ";
 const char* mqtt_server = "10.33.109.55";
 const int mqtt_port = 1883;
 const char* mqtt_client = "MCU2_Vault";
